@@ -1,7 +1,7 @@
 Gephart Request
 ===
 
-[![Build Status](https://travis-ci.org/gephart/README.md.svg?branch=master)](https://travis-ci.org/gephart/request)
+[![Build Status](https://travis-ci.org/gephart/request.svg?branch=master)](https://travis-ci.org/gephart/request)
 
 Dependencies
 ---
