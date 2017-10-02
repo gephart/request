@@ -50,5 +50,4 @@ final class Request
     {
         return isset($this->post[$key]) ? $this->post[$key] : false;
     }
-
 }
